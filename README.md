@@ -36,7 +36,7 @@ For example, for the node (20,6,List(22,23,24)), the flatMap must return the seq
 
 
 
-You can compile Graph.scala using:
+You can compile Graph.scala on Comet (https://www.sdsc.edu/support/user_guides/comet.html) using:
 ```
 run graph.build
 ```
